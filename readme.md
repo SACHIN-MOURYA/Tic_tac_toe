@@ -32,7 +32,7 @@ git clone https://github.com/SACHIN-MOURYA/Tic_tac_toe
 Navigate to the project directory and install the necessary dependencies:
 
 ```bash
-cd tic-tac-toe
+cd Tic-tac-toe
 npm install
 ```
 
@@ -66,3 +66,20 @@ The server will start at `http://localhost:3001`.
 4. Player 2 makes a move by selecting a cell to place 'X'.
 5. The game continues until one player wins or it ends in a draw.
 
+
+## Screenshots
+
+![Game_Front](https://github.com/user-attachments/assets/a94fd877-138d-40e6-b410-891d975df2c6)
+
+
+![Game1](https://github.com/user-attachments/assets/9880f2d1-da80-4a5d-a230-2542298bdc28)
+
+
+![Game](https://github.com/user-attachments/assets/c58c6353-41ac-4f67-b3ce-1bc3badfa13a)
+
+
+## Demo
+
+```
+https://tictactoe-ai96.onrender.com/
+```
