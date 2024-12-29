@@ -32,7 +32,7 @@ git clone https://github.com/SACHIN-MOURYA/Tic_tac_toe
 Navigate to the project directory and install the necessary dependencies:
 
 ```bash
-cd Tic-tac-toe
+cd tic-tac-toe
 npm install
 ```
 
@@ -45,8 +45,15 @@ node server/index.js
 npm run dev
 
 ```
+Change code in App.jsx 
+ `https://tic-tac-toe-uk2o.onrender.com` to `http://localhost:3001/`
 
-The server will start at `http://localhost:3001`.
+
+Change code in server/index.js `https://tictactoe-ai96.onrender.com` to `http://localhost:5173/`
+
+
+
+The server will start at `http://localhost:3001 `.
 
 ## How to Play
 
