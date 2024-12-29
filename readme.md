@@ -41,14 +41,16 @@ npm install
 To start the server, run the following command:
 
 ```bash
-node server.js
+node server/index.js
+npm run dev
+
 ```
 
-The server will start at `http://localhost:3000`.
+The server will start at `http://localhost:3001`.
 
 ## How to Play
 
-1. **Join a Game**: Open two different browser windows and navigate to `http://localhost:3000`. 
+1. **Join a Game**: Open two different browser windows and navigate to `http://localhost:5173/`. 
 2. **Game ID**: A unique `gameID` will be generated for each game session. Player 1 and Player 2 will use the same `gameID` to join the game.
 3. **Turns**: 
    - Player 1 will enter 'O' on their turn.
