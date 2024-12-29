@@ -3,7 +3,7 @@ import { io } from 'socket.io-client';
 import GameBoard from './components/GameBoard';
 import JoinGame from './components/JoinGame';
 
-const socket = io('http://localhost:3001');
+const socket = io('https://tictactoe-ai96.onrender.com');
 
 function App() {
   const [gameId, setGameId] = useState('');
